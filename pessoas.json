@@ -21,15 +21,6 @@
         "filhos": []
     },
     {
-        "nome": "Hugo",
-        "cpf": "999.999.999-99",
-        "casado": true,
-        "filhos": [
-            "Sérgio",
-            "Moraes"
-        ]
-    },
-    {
         "nome": "João",
         "cpf": "444.444.444-44",
         "casado": false,
