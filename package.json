@@ -14,6 +14,19 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cpf": "^2.0.1"
-  }
+    "cpf": "^2.0.1",
+    "express": "^4.17.2"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MateusBarao/cadastrador-de-cpfs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MateusBarao/cadastrador-de-cpfs/issues"
+  },
+  "homepage": "https://github.com/MateusBarao/cadastrador-de-cpfs#readme"
 }

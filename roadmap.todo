@@ -1,20 +1,20 @@
 Fase 0: Implementar remoção de pessoa:
-    ☐ Criar arquivo remover.js
-    ☐ Neste arquivo, capturar o número digitado pelo usuário
-    ☐ Importar o array de pessoas
-    ☐ Remover a possoa da posição digitada pelo usuário
-    ☐ Salvar o array modificado
+    ✔ Criar arquivo remover.js @done(22-02-02 09:24)
+    ✔ Neste arquivo, capturar o número digitado pelo usuário @done(22-02-02 09:24)
+    ✔ Importar o array de pessoas @done(22-02-02 09:24)
+    ✔ Remover a possoa da posição digitada pelo usuário @done(22-02-02 09:24)
+    ✔ Salvar o array modificado @done(22-02-02 09:24)
 
 Fase 1: Implementar exibição de pessoas:
-    ☐ Criar um arquivo mostrarTodos.js
-    ☐ Neste arquivo, carregar o array de pessoas
-    ☐ Exibir o array de pessoas utilizando o console.table
+    ✔ Criar um arquivo mostrarTodos.js @done(22-02-02 10:33)
+    ✔ Neste arquivo, carregar o array de pessoas @done(22-02-02 10:33)
+    ✔ Exibir o array de pessoas utilizando o console.table @done(22-02-02 10:33)
 
-Fase 2: Implementar funções para exibição de pessoas casadas:
-    ☐ Criar um arquivo mostrarCasados.js
-    ☐ Neste arquivo, carregar o array de pessoas
-    ☐ Usar a função array.filter para construir um novo array somente com as casadas
-    ☐ Exibir o array de pessoas casadas utilizando o console.table
+☐ Fase 2: Implementar funções para exibição de pessoas casadas:
+    ✔ Criar um arquivo mostrarCasados.js @done(22-02-02 10:33)
+    ✔ Neste arquivo, carregar o array de pessoas @done(22-02-02 10:33)
+    ✔ Usar a função array.filter para construir um novo array somente com as casadas @done(22-02-02 11:10)
+    ✔ Exibir o array de pessoas casadas utilizando o console.table @done(22-02-02 11:10)
 
 Fase 3: Implementar a alteração de pessoas:
     ☐ Criar um arquivo alterar.js
